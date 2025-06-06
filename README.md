@@ -1,3 +1,2 @@
 # iPhone
-# qwertyuiopasdfghjklñzxcvbnm
-# victoriaesfea
+
