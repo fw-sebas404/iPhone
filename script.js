@@ -86,12 +86,6 @@ window.onclick = function(event) {
     }
 }
 
-// Función para reproducir el sonido
-function playSound() {
-    let audio = new Audio('alarma/alarma.mp3'); // Cambia 'alarma.mp3' por la ruta correcta a tu archivo de sonido
-    audio.play();
-}
-
 // Variables para controlar las alarmas
 let alarmaSonada = {};
 
